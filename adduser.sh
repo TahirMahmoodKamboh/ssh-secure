@@ -1,6 +1,6 @@
 
 USERNAME=tahir
-PASSWORD=A%vcHy&17YXp1
+PASSWORD=YOUR_PASSWORD
 sudo adduser --disabled-password --gecos "" $USERNAME
 echo "$USERNAME:$PASSWORD" | sudo chpasswd
 
